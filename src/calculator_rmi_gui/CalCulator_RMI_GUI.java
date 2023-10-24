@@ -5,10 +5,7 @@
  */
 package calculator_rmi_gui;
 
-/**
- *
- * @author Bedo
- */
+
 public class CalCulator_RMI_GUI {
 
     /**
